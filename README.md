@@ -58,7 +58,7 @@ Spreading Ideas Across Language Chasm
 
 # Mobile Client - https://github.com/veris-pr/duopod-client
 # Backend  - https://github.com/veris-pr/duopod-server
-# ML Pipeline - https://github.com/veris-pr/duopod-server
+# ML Pipeline - https://github.com/veris-pr/duopod-ml
 
 
 
