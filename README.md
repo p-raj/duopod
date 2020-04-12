@@ -56,4 +56,9 @@ Spreading Ideas Across Language Chasm
 
 <img width="1035" alt="Screen Shot 2020-04-10 at 7 42 43 PM" src="https://user-images.githubusercontent.com/40563855/79057791-da670a00-7c82-11ea-9bad-7bdb7d4c347f.png">
 
+# Mobile Client - https://github.com/veris-pr/duopod-client
+# Backend  - https://github.com/veris-pr/duopod-server
+# ML Pipeline - https://github.com/veris-pr/duopod-server
+
+
 
