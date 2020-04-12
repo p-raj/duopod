@@ -48,9 +48,12 @@ Spreading Ideas Across Language Chasm
 - Offer SDK to apps such as meditation apps, or yoga apps, where the user can personalize the voice (pitch, tone, accent, speed)
 - Real-time translation and speech synthesis, integration with Zoom and other communication apps
 
+## How the User App would work?
 
+<img width="1435" alt="Screen Shot 2020-04-10 at 6 36 37 PM" src="https://user-images.githubusercontent.com/40563855/79057792-eb178000-7c82-11ea-97bf-876a1467ddc6.png">
 
+## How the Podcast Stuido App would work?
 
-
+<img width="1035" alt="Screen Shot 2020-04-10 at 7 42 43 PM" src="https://user-images.githubusercontent.com/40563855/79057791-da670a00-7c82-11ea-9bad-7bdb7d4c347f.png">
 
 
